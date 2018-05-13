@@ -82,6 +82,7 @@ my %ActionDispatch = (
     "adminOpts"                  => "AdminOptions",
     "editConfig"                 => "EditConfig",
     "rss"                        => "RSS",
+    "prometheus"                 => "Prometheus",
 );
 
 #
